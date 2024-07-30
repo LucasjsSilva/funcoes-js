@@ -6,5 +6,6 @@ function verifica_maior_idade(idade){
         return "Você é maior de idade!!"
     }
 }
-
-console.log(verifica_maior_idade(18));
+function main(){
+    console.log(verifica_maior_idade(18));
+}
