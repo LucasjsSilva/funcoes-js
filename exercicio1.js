@@ -1,5 +1,5 @@
 function escreva_meu_nome(nome){
-    console.log('Meu nome é: ' + nome);
+    return 'Meu nome é: ' + nome;
 }
 
-escreva_meu_nome("Lucas Jesus")
+console.log(escreva_meu_nome("Lucas Jesus"))
